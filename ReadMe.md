@@ -10,14 +10,11 @@ Forum: https://craftmywebsite.fr/forum/index.php?resources/the-simple-white-them
 
 Contact: [hello@pinglsdzn.eu](mailto://hello@pinglsdzn.eu)
 
-Par: Amjido & PinglsDzn 
+Par: PinglsDzn 
 
 Version: 2.2_fr
 
 Langue: Français (FR_fr) - French
-
-
-(`Theme mis à disposition par la SkrubTeam avec l'autorisation de Amjido créateur original du thème, repris par PinglsDzn`)
 
 ## COPYRIGHT
 
