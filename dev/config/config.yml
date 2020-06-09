@@ -1,0 +1,29 @@
+#Ce fichier contiens la config de base du serveur---
+Pied:
+    facebook: https://fb.me/ma.page
+    twitter: https://twitter.com/ma.page
+    youtube: https://www.youtube.com/users/mon.utilisateur
+    discord: https://discord.gg/mon.discord
+All:
+    1:
+        titre: Communauté
+        texte: >
+            Vos hunc fuit fuit cum Qui locum aut flore aetati si nec
+            sollemnia diutius fundato.
+    2:
+        titre: Modes de jeux
+        texte: >
+            Los topidato porttitor ullamcorper rhoncus. Praesent congue,
+            turpis sit amet.
+    3:
+        titre: Grades
+        texte: >
+            Flagrantibus Arctoae Scutariorum omnium eum proficisci
+            solus, eum clemens ut.
+    Seo:
+        color: "100096"
+        name: 'Nom du serveur - Serveur Minecraft'
+        description: "Rejoignez nom de votre serveur à l'adresse play.votreserveur.fr"
+        image: https://craftmywebsite.fr/forum/data/resource_icons/0/162.jpg
+        google: Votre token google
+        bing: Votre token bing

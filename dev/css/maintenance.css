@@ -1,0 +1,7 @@
+body {
+    background: url('../img/heading.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
