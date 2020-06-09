@@ -29,4 +29,4 @@ Langue: Français (FR_fr) - French
 
 > Pour faire un don à PinglsDzn: https://www.buymeacoffee.com/PinglsDzn
 
-### Mis à disposition par @SkruInterfaz
+### Mis à disposition par @SkrubInterfaz ( https://github.com/SkrubInterfaz )
