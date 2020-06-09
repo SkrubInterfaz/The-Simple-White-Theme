@@ -1,16 +1,18 @@
 ﻿# POUR LE CMS "CRAFTMYWEBSITE 1.7.3"
 =============================
-## The Simple White Theme 2.4 
+## The Simple White Theme 2.2
 
 GitHub: https://github.com/SkrubInterfaz/The-Simple-White-Theme
 
 Discord: https://discord.gg/hmM3Zxd
 
+Forum: https://craftmywebsite.fr/forum/index.php?resources/the-simple-white-theme.157/
+
 Contact: [hello@pinglsdzn.eu](mailto://hello@pinglsdzn.eu)
 
 Par: Amjido & PinglsDzn 
 
-Version: 2.4_fr
+Version: 2.2_fr
 
 Langue: Français (FR_fr) - French
 
